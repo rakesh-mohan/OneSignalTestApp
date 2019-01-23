@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "940053073385",
+    "firebase_url": "https://my-sample-projects-4b3ea.firebaseio.com",
+    "project_id": "my-sample-projects-4b3ea",
+    "storage_bucket": "my-sample-projects-4b3ea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:940053073385:android:9bc4f392b1e7ff8d",
+        "android_client_info": {
+          "package_name": "io.mobilisten.dev.onesignaltestapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "940053073385-b0rj1r0e0bajmhjq8m4rldjl1n2v44be.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA5OxOshB_4ynqm6__3Ct1ZYnooQxVm4WQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
